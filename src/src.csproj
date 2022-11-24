@@ -1,14 +1,16 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <TargetFramework>net6.0</TargetFramework>
         <RootNamespace>AlbedoTeam.Sdk.ExceptionHandler</RootNamespace>
         <AssemblyName>AlbedoTeam.Sdk.ExceptionHandler</AssemblyName>
+		<Version>1.0.0</Version>
+		<RepositoryUrl>https://github.com/albedoteam/sdk-exceptionhandler</RepositoryUrl>
     </PropertyGroup>
 
     <ItemGroup>
       <PackageReference Include="Microsoft.AspNetCore.Diagnostics" Version="2.2.0" />
-      <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="5.0.0" />
+      <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="7.0.0" />
     </ItemGroup>
 
 </Project>
