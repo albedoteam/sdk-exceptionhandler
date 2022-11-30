@@ -4,7 +4,7 @@
         <TargetFramework>net6.0</TargetFramework>
         <RootNamespace>AlbedoTeam.Sdk.ExceptionHandler</RootNamespace>
         <AssemblyName>AlbedoTeam.Sdk.ExceptionHandler</AssemblyName>
-		<Version>1.0.2</Version>
+		<Version>1.0.0</Version>
 		<RepositoryUrl>https://github.com/albedoteam/sdk-exceptionhandler</RepositoryUrl>
     </PropertyGroup>
 
